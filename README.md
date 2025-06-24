@@ -1,5 +1,11 @@
 # CNN Engine in Pure NumPy
 
+##  Meme Motivation
+
+*After this project, I can say* 
+![CNN](CNN_image.png)
+
+---
 
 ##  About the Project
 
@@ -53,12 +59,6 @@ This project is great for:
 
 ---
 
-## 📸 Meme Motivation
-
-When it finally *clicks* 
-![CNN](CNN_image.png)
-
----
 
 
 
